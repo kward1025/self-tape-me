@@ -1,0 +1,26 @@
+{
+  "name": "self-tape-me",
+  "version": "1.0.0",
+  "description": "Self taping app for actors to find videographers who provide \"self taping services.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kward1025/self-tape-me.git"
+  },
+  "keywords": [
+    "Actor, Videographer, Self Tape, "
+  ],
+  "author": "Kavon Ward",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kward1025/self-tape-me/issues"
+  },
+  "homepage": "https://github.com/kward1025/self-tape-me#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
